@@ -2,7 +2,31 @@
 
 
 # 💫 About Me:
-Hi, I’m Mehedi Hasan, a Computer Science student from BUET and an aspiring FULL STACK Developer. With a strong foundation in FRONT-END development, I’m eager to dive deeper into back-end technologies and bring complete solutions to life. I’m passionate about building intuitive, efficient, and engaging web applications that solve real-world problems.<br><br>As a fresher, I’m fueled by curiosity and a growth mindset, continuously exploring new tools, frameworks, and best practices in the ever-evolving tech world. I’m particularly interested in working on projects that combine creativity and innovation to deliver impactful solutions.<br><br>Outside of coding, I’m an avid cricket fan, a dedicated gamer, and I love the freedom of riding my bike. These interests not only keep me refreshed but also inspire me to approach challenges with energy and a fresh perspective.<br><br>Let’s connect—I’m excited to collaborate, learn, and grow in the tech community! 🚀
+# Mehedi Hasan  
+*Computer Science Student, BUET | Aspiring Full Stack Developer*
+
+Hi, I’m **Mehedi Hasan**, a Computer Science student from BUET and an aspiring FULL STACK Developer. With a strong foundation in FRONT-END development, I’m eager to dive deeper into back-end technologies and bring complete solutions to life. I’m passionate about building intuitive, efficient, and engaging web applications that solve real-world problems.
+
+---
+
+## Front-End Expertise:
+- Strong foundation in **React**, **HTML**, **CSS**, **Tailwind CSS**, and **Bootstrap**  
+- Focused on building intuitive, efficient, and engaging web applications  
+
+## Back-End Exploration:
+- Currently learning **Next.js**, **Node.js**, and **TypeScript (Node)**  
+- Aspiring to specialize in **full-stack development** with React and **Spring Boot (Java)**  
+
+---
+
+As a fresher, I’m fueled by curiosity and a growth mindset, continuously exploring new tools, frameworks, and best practices in the ever-evolving tech world. I’m particularly interested in working on projects that combine creativity and innovation to deliver impactful solutions.
+
+Outside of coding, I’m an **avid cricket fan**, a **dedicated gamer**, and I love the freedom of **riding my bike**. These interests not only keep me refreshed but also inspire me to approach challenges with energy and a fresh perspective.
+
+---
+
+**Let’s connect—I’m excited to collaborate, learn, and grow in the tech community!** 🚀
+
 
 
 ## 🌐 Socials:
