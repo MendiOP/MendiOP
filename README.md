@@ -14,7 +14,7 @@ Hi, I’m **Mehedi Hasan**, a Computer Science student from BUET and an aspiring
 - Focused on building intuitive, efficient, and engaging web applications  
 
 ## Back-End Exploration:
-- Currently learning **Next.js**, **Node.js**, and **TypeScript (Node)**  
+- Currently learning **Spring Boot**, **Reactive Programming**, and **R2DBC**  
 - Aspiring to specialize in **full-stack development** with React and **Spring Boot (Java)**  
 
 ---
